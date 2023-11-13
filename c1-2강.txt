@@ -1,0 +1,8 @@
+오전 9:08 2023-11-13
+c1강의보기
+
+1강-->컴퓨터구성-cpu, ram, power, hdd, mainboard
+         
+2rkd-->정수-int(4bite를저장), long, longlong
+          상수-float double
+          문자-char

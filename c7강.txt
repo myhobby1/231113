@@ -1,0 +1,8 @@
+오후 6:11 2023-11-13
+
+7강-->frintf-print fommated 포맷형식으로 출력한다.
+int %d
+char %c
+string %s
+float %f
+double %lf

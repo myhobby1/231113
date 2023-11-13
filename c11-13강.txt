@@ -1,0 +1,37 @@
+오전 10:59 2023-11-13
+
+c11강-->조건문 if문중첩
+#include <stdio.h>
+ int main( ){
+   int a=5;
+ if (a<10){
+    printf(" a는 10보다 작습니다.\*");
+}
+return 0
+}
+출력은0
+
+12강-->switch문
+switch(변수){
+    1 break
+     2 break
+      3break
+}
+switchansdms #define과 unum을 사용해 주석이 필요없는 코드를 만들수있다
+switch(변수){
+case 값 ;
+      break ;
+case 값 ;
+      break ;
+case 값 ;
+      break ;
+default ;
+}
+
+13강-->반복문
+while(조건){
+for(초기값 조건 가감연산)
+for(int i=0 ; i<반복횟수(i<10) ; i++){
+
+}
+
